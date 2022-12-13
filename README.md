@@ -16,3 +16,24 @@ in project deadlines and consultant availability. This new system simplifies the
   * The shared timeframe is automatically updated with the new assignments, ensuring that the assignment of consultants remains accurate and efficient
 * **Dynamic capabilities ensure that any changes to project deadlines or consultant availability are automatically reflected in the shared timeframe**
   * This ensures that the assignment of consultants remains accurate and efficient, even in the face of changes to project deadlines or consultant availability. 
+
+## Demo Images
+### Login
+[![valtech-login.png](https://i.postimg.cc/522HLpwS/valtech-login.png)](https://postimg.cc/fJ1ThcqV)
+### Insights
+#### To show the current status of your projects and provide a quick overview of consultant and project management, you can use the Insights page. This page features different charts that provide valuable information and insights about your projects. 
+[![valtech-home.png](https://i.postimg.cc/X7h4J87P/valtech-home.png)](https://postimg.cc/XpwT195K)
+### Projects overview
+#### Allows managers to view all of their projects, filter projects by name, skill, and date range. 
+[![valtech1-projects.png](https://i.postimg.cc/V6qs3bqN/valtech1-projects.png)](https://postimg.cc/zbf1hvPm)
+###  Project details
+#### Allows managers to view all relevant information about a specific project. This page provides detailed information about the project, including its title, description, external link, date range, and assigned consultants.
+[![valtech-projects.png](https://i.postimg.cc/90rs56TQ/valtech-projects.png)](https://postimg.cc/n9f3qw0y)
+### Create project
+[![valtech1-create-project.png](https://i.postimg.cc/SsMYjsW0/valtech1-create-project.png)](https://postimg.cc/r0qwPqng)
+###  Edit project
+[![valtech-edit-project.png](https://i.postimg.cc/bvr5tXCH/valtech-edit-project.png)](https://postimg.cc/SX0dBPpJ)
+### Create consultant
+[![valtech-create-consultant.png](https://i.postimg.cc/767m3qg7/valtech-create-consultant.png)](https://postimg.cc/zbzC5Z2X)
+### Consultants overview
+[![valtech-consultants.png](https://i.postimg.cc/TYTCbMhL/valtech-consultants.png)](https://postimg.cc/bdFxX5xp)
