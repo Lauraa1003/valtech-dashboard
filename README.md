@@ -1,7 +1,7 @@
 
 # Valtech Consultant Booking System
 As a capstone project for SIT Learning, our team worked on a challenge provided by Valtech Switzerland.  The system allows project managers to easily view and assign consultants to projects
-based on their skills and availability. Previously, Valtech had two separate systems for booking consultants, but our system combines these into one shared timeline that automatically adjusts to changes
+based on their skills and availability. Previously, Valtech had two separate systems for booking consultants, our system combines these into one shared timeline that automatically adjusts to changes
 in project deadlines and consultant availability. This new system simplifies the process of assigning consultants to projects at Valtech.
 
 ## Features
