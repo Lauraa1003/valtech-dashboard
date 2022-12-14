@@ -14,8 +14,6 @@ in project deadlines and consultant availability. This new system simplifies the
 * **Allows for the easy assignment of consultants to projects**
   * Once a project manager has identified the right consultants for a project, they can easily assign them to the project with a few clicks
   * The shared timeframe is automatically updated with the new assignments, ensuring that the assignment of consultants remains accurate and efficient
-* **Dynamic capabilities ensure that any changes to project deadlines or consultant availability are automatically reflected in the shared timeframe**
-  * This ensures that the assignment of consultants remains accurate and efficient, even in the face of changes to project deadlines or consultant availability. 
 
 ## Tools
 **Front-end:** React • Redux • Styled Components
