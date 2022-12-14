@@ -19,7 +19,9 @@ in project deadlines and consultant availability. This new system simplifies the
 
 ## Tools
 **Front-end:** React • Redux • Styled Components
+
 **Back-end:** Django • Docker • DigitalOcean • NGINX • Gunicorn • Postgres • Python
+
 **Agile methodologies:** Scrum
 
 ## Demo Images
