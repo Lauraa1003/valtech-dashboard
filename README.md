@@ -17,6 +17,11 @@ in project deadlines and consultant availability. This new system simplifies the
 * **Dynamic capabilities ensure that any changes to project deadlines or consultant availability are automatically reflected in the shared timeframe**
   * This ensures that the assignment of consultants remains accurate and efficient, even in the face of changes to project deadlines or consultant availability. 
 
+## Tools
+**Front-end:** React • Redux • Styled Components
+**Back-end:** Django • Docker • DigitalOcean • NGINX • Gunicorn • Postgres • Python
+**Agile methodologies:** Scrum
+
 ## Demo Images
 ### Login
 [![valtech-login.png](https://i.postimg.cc/522HLpwS/valtech-login.png)](https://postimg.cc/fJ1ThcqV)
